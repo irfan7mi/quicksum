@@ -32,3 +32,6 @@ This project is a minimal yet powerful React application bootstrapped with **Vit
 
 ## 📂 Project Structure
 
+## 📄 License
+
+MIT License © 2025 [Irfan](https://github.com/irfan7mi)
