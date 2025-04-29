@@ -1,12 +1,34 @@
-# React + Vite
+# 📘 TextSum — React + Vite PDF Summarizer (Starter)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a minimal yet powerful React application bootstrapped with **Vite**, styled using **Material UI (MUI)**, and capable of processing **PDF files** with `pdfjs-dist`. It features modern React (v18), Hot Module Replacement (HMR), toast notifications, and ESLint setup for clean code.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⚡ Lightning-fast builds and HMR with **Vite**
+- ⚛️ Modern **React 18** setup
+- 💅 UI components with **Material UI** & **Emotion**
+- 📄 **PDF support** with `pdfjs-dist`
+- 🔥 Toast alerts with `react-toastify`
+- ✅ Strict linting rules with ESLint and React Hooks plugin
+- 🔧 Easily expandable for AI-based text summarization, file processing, or other ML features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+| Tech            | Description                        |
+|-----------------|------------------------------------|
+| React 18        | UI Library                         |
+| Vite 6+         | Fast build tool + dev server       |
+| MUI + Emotion   | UI Styling                         |
+| Axios           | HTTP client                        |
+| PDF.js          | PDF parsing in browser             |
+| React Toastify  | Toast notifications                |
+| ESLint + Plugins| Code linting and best practices    |
+
+---
+
+## 📂 Project Structure
+
